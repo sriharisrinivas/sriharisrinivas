@@ -1,6 +1,7 @@
 -   👋  Hi, I’m @Srihari Srinivas
 -   👀  I’m interested in developing web applications
 -   🌱  I currently completed learning React JS
+-   LinkedIn: https://www.linkedin.com/in/srihari-srinivas-illa-a07438177/
 
 ...................................................................................................................................................................................
 
