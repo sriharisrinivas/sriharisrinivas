@@ -4,7 +4,8 @@
 
 Project:
     Have a look on my project by clicking this link.
-    ytclonebyhari.ccbp.tech
+    
+    link:  https://ytclonebyhari.ccbp.tech/
 
     Do enter these credentials to enter into application.
     username: praneetha
