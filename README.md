@@ -4,7 +4,7 @@
 
 ...................................................................................................................................................................................
 
-Project-1: NXT Watch App => Youtube Clone
+**Project-1**: NXT Watch App => Youtube Clone
 
 Have a look on my project by clicking this link.
     
