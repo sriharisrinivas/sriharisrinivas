@@ -5,8 +5,8 @@
 Project:
     Have a look on my project by clicking this link.
     
-    link:  https://ytclonebyhari.ccbp.tech/
+    https://ytclonebyhari.ccbp.tech/
 
-    Do enter these credentials to enter into application.
+   Do enter these credentials to enter into application.
     username: praneetha
     password: praneetha@2021
