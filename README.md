@@ -7,6 +7,7 @@ Project:
     
     https://ytclonebyhari.ccbp.tech/
 
-   Do enter these credentials to enter into application.
-   username: praneetha
-   password: praneetha@2021
+Do enter these credentials to enter into application.
+
+username: praneetha
+password: praneetha@2021
